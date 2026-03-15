@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "the-shadow-of-eldoria"
+version = "1.0.0"
+description = "Mystery Game OOP Project"
+dependencies = [
+    "pygame>=2.0.0"
+]
