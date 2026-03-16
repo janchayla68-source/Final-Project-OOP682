@@ -16,7 +16,7 @@ PYGAME
 ## ⚙️ วิธีการติดตั้งและใช้งาน (Installation & Usage)
 
 ### สิ่งที่ต้องมี (Prerequisites)
-- Python 3.8 หรือใหม่กว่า
+- Python 3.10
 
 ### ขั้นตอนการติดตั้ง (Installation Steps)
 1. โคลน Repository นี้ลงมาที่เครื่องของคุณ:
